@@ -153,10 +153,10 @@
                 "archived": false,
                 "id": 4095287,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T06:23:13Z",
+                "last_commit": "2026-08-24T11:40:11Z",
                 "owner": "rubocop",
                 "repo": "rubocop",
-                "stars": 12899
+                "stars": 12898
               }
             },
             {
@@ -223,7 +223,7 @@
                 "last_commit": "2026-07-14T14:02:43Z",
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16735
+                "stars": 16736
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38447
+                "stars": 38446
               }
             },
             {
@@ -707,7 +707,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24359
+                "stars": 24360
               }
             },
             {
@@ -801,6 +801,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "avatarly",
+              "description": "A simple gem for creating Gmail-like user avatars based on user email or any other string passed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17320431,
+                "language": "Ruby",
+                "last_commit": "2021-11-08T18:59:19Z",
+                "owner": "lucek",
+                "repo": "avatarly",
+                "stars": 162
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Avatars"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Resque",
               "description": "a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
               "children": [],
@@ -853,7 +875,7 @@
                 "archived": false,
                 "id": 39947871,
                 "language": "Ruby",
-                "last_commit": "2026-08-20T07:23:09Z",
+                "last_commit": "2026-08-24T13:33:14Z",
                 "owner": "karafka",
                 "repo": "karafka",
                 "stars": 2257
@@ -960,7 +982,7 @@
                 "last_commit": "2022-12-31T11:46:26Z",
                 "owner": "piotrmurach",
                 "repo": "tty",
-                "stars": 2530
+                "stars": 2529
               }
             },
             {
@@ -1101,6 +1123,28 @@
           "description": null,
           "node_type": "group",
           "title": "Configuration and environment variables"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Byebug",
+              "description": "a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources. It's developed as a C extension, so it's fast. And it has a full test suite so it's reliable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8863313,
+                "language": "Ruby",
+                "last_commit": "2026-07-27T03:09:11Z",
+                "owner": "deivid-rodriguez",
+                "repo": "byebug",
+                "stars": 3349
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging"
         },
         {
           "children": [
@@ -1892,7 +1936,7 @@
                 "last_commit": "2024-04-26T00:50:43Z",
                 "owner": "peek",
                 "repo": "peek",
-                "stars": 3174
+                "stars": 3173
               }
             },
             {
@@ -2517,6 +2561,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Ransack",
+              "description": "enables the creation of both simple and advanced search forms against your application's models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1548802,
+                "language": "Ruby",
+                "last_commit": "2026-05-31T20:24:55Z",
+                "owner": "activerecord-hackery",
+                "repo": "ransack",
+                "stars": 5864
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Brakeman",
               "description": "a static analysis security vulnerability scanner for Ruby on Rails applications.",
               "children": [],
@@ -3092,7 +3158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:29:17.616Z",
+    "last_updated": "2026-08-24T14:06:04.391Z",
     "original_repository": "dreikanter/ruby-bookmarks",
     "original_repository_id": 21204004,
     "original_repository_sha": "ea479ffc989096df19304a48fc0d216b9d625899",

@@ -8,7 +8,7 @@ This list is not intended to include random resources related to Ruby programmin
 
 **[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09**
 
-PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,625 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 for other community-driven bookmark collections.
+PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 for other community-driven bookmark collections.
 
 ## Table of Contents
 
@@ -228,7 +228,7 @@ See also:
 
 * [RuboCop](https://github.com/bbatsov/rubocop) ⭐ 12,898 | 🐛 142 | 🌐 Ruby | 📅 2026-08-25 — a Ruby static code analyzer, based on the community Ruby style guide.
 * [RubyCritic](https://github.com/whitesmith/rubycritic) ⭐ 3,500 | 🐛 36 | 🌐 Ruby | 📅 2026-06-24 — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
-* [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) ⭐ 639 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 — An IDE extension that helps you detect and fix quality issues as you write code.
+* [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) ⭐ 639 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-25 — An IDE extension that helps you detect and fix quality issues as you write code.
 * [Guard plugin for RuboCop](https://github.com/yujinakayama/guard-rubocop) ⭐ 262 | 🐛 6 | 🌐 Ruby | 📅 2024-05-20 — allows you to automatically check Ruby code style with RuboCop when files are modified.
 
 ### Environment management
@@ -269,13 +269,13 @@ See also:
 ### Deployment Automation and Configuration Management
 
 * [Capistrano](https://github.com/capistrano/capistrano) ⭐ 12,984 | 🐛 65 | 🌐 Ruby | 📅 2026-07-19 — remote multi-server automation tool.
-* [Chef](https://github.com/opscode/chef) ⭐ 8,226 | 🐛 402 | 🌐 Ruby | 📅 2026-08-24 — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* [Chef](https://github.com/opscode/chef) ⭐ 8,227 | 🐛 403 | 🌐 Ruby | 📅 2026-08-25 — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 * ★ [Mina](https://github.com/mina-deploy/mina) ⭐ 4,356 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 – really fast deployer and server automation tool.
 * [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) ⭐ 285 | 🐛 1 | 🌐 Dockerfile | 📅 2019-02-03 — Easy-to-use Docker for Rails with less configuration and affordable production.
 
 ### Other tools
 
-* [httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,449 | 🐛 332 | 🌐 Python | 📅 2024-12-17 — An extremely handy command-line HTTP client; a user-friendly cURL replacement.
+* [httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,450 | 🐛 332 | 🌐 Python | 📅 2024-12-17 — An extremely handy command-line HTTP client; a user-friendly cURL replacement.
 * [Foreman](https://github.com/ddollar/foreman) ⭐ 6,155 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 — manage Procfile-based applications.
 * [Reek](https://github.com/troessner/reek) ⭐ 4,129 | 🐛 55 | 🌐 Ruby | 📅 2026-08-16 — code smell detection for Ruby.
 * [god](https://github.com/mojombo/god) ⭐ 2,218 | 🐛 123 | 🌐 Ruby | 📅 2024-03-29 — The Ruby Framework for Process Management
@@ -345,7 +345,7 @@ See also:
 * [Resque](https://github.com/resque/resque) ⭐ 9,480 | 🐛 90 | 🌐 Ruby | 📅 2026-07-28 — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) ⭐ 2,630 | 🐛 2 | 🌐 Ruby | 📅 2025-12-24 — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl\_friday.
 * [que](https://github.com/chanks/que) ⭐ 2,322 | 🐛 60 | 🌐 Ruby | 📅 2026-01-01 — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
-* [Karafka](https://github.com/karafka/karafka) ⭐ 2,256 | 🐛 82 | 🌐 Ruby | 📅 2026-08-25 — Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
+* [Karafka](https://github.com/karafka/karafka) ⭐ 2,256 | 🐛 81 | 🌐 Ruby | 📅 2026-08-25 — Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
 * [Delayed::Job](https://github.com/tobi/delayed_job) ⭐ 2,176 | 🐛 48 | 🌐 Ruby | 📅 2020-11-07 — A database-backed asynchronous priority queue.
 * [Ohm](https://github.com/soveran/ohm) ⭐ 1,382 | 🐛 12 | 🌐 Ruby | 📅 2022-12-20 — object-hash mapping for Redis.
 * [Backburner](https://github.com/nesquena/backburner) ⭐ 433 | 🐛 48 | 🌐 Ruby | 📅 2026-01-02 — a beanstalkd-powered job queue that can handle a very high volume of jobs.
@@ -436,7 +436,7 @@ See also:
 
 If there is a nice gem, but it is difficult to classify it with existing bookmarks groups, or it is still one of its kind, put it here.
 
-* [Prawn](https://github.com/prawnpdf/prawn) ⭐ 4,819 | 🐛 92 | 🌐 Ruby | 📅 2026-04-18 — fast, nimble PDF generation.
+* [Prawn](https://github.com/prawnpdf/prawn) ⭐ 4,820 | 🐛 92 | 🌐 Ruby | 📅 2026-04-18 — fast, nimble PDF generation.
 * [EventMachine](https://github.com/eventmachine/eventmachine) ⭐ 4,277 | 🐛 199 | 🌐 Ruby | 📅 2026-07-24 — A fast, simple event-processing library.
 * [awesome\_print](https://github.com/awesome-print/awesome_print) ⭐ 4,081 | 🐛 110 | 🌐 Ruby | 📅 2024-08-15 — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 * [Dalli](https://github.com/mperham/dalli) ⭐ 3,115 | 🐛 4 | 🌐 Ruby | 📅 2026-08-16 — A high performance Memcached client for Ruby.
@@ -519,7 +519,7 @@ Validation:
 (info collected from [Stack Overflow](http://stackoverflow.com/questions/24745809/massive-scheduling-in-ruby))
 
 * [Whenever](https://github.com/javan/whenever) ⭐ 8,861 | 🐛 84 | 🌐 Ruby | 📅 2026-07-01 — a Ruby wrapper for crond, with a clear syntax (each job is a separate process).
-* ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) ⭐ 2,446 | 🐛 8 | 🌐 Ruby | 📅 2026-06-22 — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
+* ★ [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) ⭐ 2,447 | 🐛 8 | 🌐 Ruby | 📅 2026-06-22 — an in-process, in-memory scheduler with no persistence, accepting at, in, cron and every jobs.
 * [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) ⭐ 1,945 | 🐛 2 | 🌐 Ruby | 📅 2026-05-27 — scheduler based on rufus-scheduler and [Sidekiq](http://sidekiq.org) ([Redis](http://redis.io) based message queue) for persistence. Inherits web UI from Sidekiq.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) ⭐ 1,746 | 🐛 86 | 🌐 Ruby | 📅 2026-07-08 — rufus-scheduler + Resque.
 * [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) — one more job scheduler based on rufus-scheduler and Sidekiq.
@@ -552,7 +552,7 @@ Text:
 * [YAJL](https://github.com/brianmario/yajl-ruby) ⭐ 1,490 | 🐛 74 | 🌐 C | 📅 2025-12-27 — a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
 * [JSON](https://github.com/flori/json) ⭐ 781 | 🐛 8 | 🌐 Ruby | 📅 2026-08-24 — includes pure Ruby and C implementation for JSON.
 * [JSON::Stream](https://github.com/dgraham/json-stream) ⭐ 202 | 🐛 3 | 🌐 Ruby | 📅 2024-04-22 — a streaming JSON parser that generates SAX-like events.
-* [TOML](https://github.com/jm/toml) ⭐ 156 | 🐛 27 | 🌐 Ruby | 📅 2022-04-21 — a sane configuration format [from @mojombo](https://github.com/toml-lang/toml) ⭐ 20,584 | 🐛 12 | 📅 2026-07-03.
+* [TOML](https://github.com/jm/toml) ⭐ 156 | 🐛 27 | 🌐 Ruby | 📅 2022-04-21 — a sane configuration format [from @mojombo](https://github.com/toml-lang/toml) ⭐ 20,585 | 🐛 13 | 📅 2026-07-03.
 
 Binary:
 
@@ -596,7 +596,7 @@ Binary:
 
 ### Web Frameworks
 
-* [Hanami](https://github.com/hanami/hanami) ⭐ 6,407 | 🐛 33 | 🌐 Ruby | 📅 2026-08-24 — a complete, modern web framework.
+* [Hanami](https://github.com/hanami/hanami) ⭐ 6,408 | 🐛 33 | 🌐 Ruby | 📅 2026-08-24 — a complete, modern web framework.
 * ★ [Cuba](https://github.com/soveran/cuba) ⭐ 1,447 | 🐛 4 | 🌐 Ruby | 📅 2024-01-24 — a microframework for web development originally inspired by [Rum](https://github.com/chneukirchen/rum) ⭐ 104 | 🐛 0 | 🌐 Ruby | 📅 2009-01-12, a tiny but powerful mapper for Rack applications. It integrates many templates via Tilt, and testing via Cutest and Capybara.
 * [Ruby on Rails](http://rubyonrails.org) — an open source full-stack framework web application framework.
 * [Sinatra](http://sinatrarb.com) — a DSL for quickly creating web applications in Ruby with minimal effort.

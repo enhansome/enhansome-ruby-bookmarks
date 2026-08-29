@@ -125,7 +125,7 @@
             "open_issues": 74,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548,
+            "stars": 16547,
             "topics": [
               "rubocop",
               "ruby",
@@ -687,7 +687,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 335,
+                "open_issues": 336,
                 "owner": "httpie",
                 "repo": "cli",
                 "stars": 38465,
@@ -963,7 +963,7 @@
                 "open_issues": 18,
                 "owner": "pat",
                 "repo": "thinking-sphinx",
-                "stars": 1620,
+                "stars": 1621,
                 "topics": [
                   "rails",
                   "ruby",
@@ -1019,8 +1019,8 @@
                 "id": 812393,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-27T22:04:39Z",
-                "open_issues": 237,
+                "last_commit": "2026-08-29T13:11:03Z",
+                "open_issues": 244,
                 "owner": "ruby-grape",
                 "repo": "grape",
                 "stars": 10005,
@@ -1385,7 +1385,7 @@
                 "open_issues": 59,
                 "owner": "que-rb",
                 "repo": "que",
-                "stars": 2323,
+                "stars": 2324,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -1577,7 +1577,7 @@
                 "open_issues": 13,
                 "owner": "piotrmurach",
                 "repo": "tty",
-                "stars": 2530,
+                "stars": 2531,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1843,7 +1843,7 @@
                 "open_issues": 109,
                 "owner": "solidusio",
                 "repo": "solidus",
-                "stars": 5324,
+                "stars": 5325,
                 "topics": [
                   "ecommerce",
                   "ecommerce-framework",
@@ -2231,7 +2231,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-07-29T11:01:13Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "github",
                 "repo": "markup",
                 "stars": 6045,
@@ -2941,8 +2941,8 @@
                 "id": 277089,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-28T00:02:38Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-29T08:01:18Z",
+                "open_issues": 7,
                 "owner": "flyerhzm",
                 "repo": "bullet",
                 "stars": 7336,
@@ -3297,8 +3297,8 @@
                 "id": 47087,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-08-28T05:09:59Z",
-                "open_issues": 59,
+                "last_commit": "2026-08-29T12:12:21Z",
+                "open_issues": 52,
                 "owner": "carrierwaveuploader",
                 "repo": "carrierwave",
                 "stars": 8779,
@@ -3345,7 +3345,7 @@
                 "id": 810796,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:53:25Z",
+                "last_commit": "2026-08-29T13:47:07Z",
                 "open_issues": 199,
                 "owner": "railsadminteam",
                 "repo": "rails_admin",
@@ -3465,7 +3465,7 @@
                 "open_issues": 1,
                 "owner": "thoughtbot",
                 "repo": "suspenders",
-                "stars": 4043,
+                "stars": 4042,
                 "topics": [
                   "rails",
                   "template"
@@ -4654,7 +4654,7 @@
                 "open_issues": 44,
                 "owner": "cucumber",
                 "repo": "common",
-                "stars": 3357,
+                "stars": 3358,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -4864,7 +4864,7 @@
                 "open_issues": 33,
                 "owner": "hanami",
                 "repo": "hanami",
-                "stars": 6408,
+                "stars": 6407,
                 "topics": [
                   "api",
                   "hanami",
@@ -4912,7 +4912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:32.967Z",
+    "last_updated": "2026-08-29T14:00:22.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ruby and Ruby on Rails bookmarks collection",

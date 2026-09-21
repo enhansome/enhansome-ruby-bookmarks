@@ -6,9 +6,9 @@ This is a curated collection of essential Ruby and Ruby on Rails resources. The 
 
 This list is not intended to include random resources related to Ruby programming (we already have the most complete gem catalog at [ruby-toolbox.com](https://www.ruby-toolbox.com) and [Awesome Ruby](https://ruby.libhunt.com)), but only the best and most current alternatives in each area. You will find the latest editions of the most important books, time and community-tested gems (active projects only!), and actively updated websites. *Sharing and pull requests are very much appreciated!*
 
-**[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md) ⭐ 2,305 | 🐛 0 | 📅 2026-04-09**
+**[Fork and edit](https://github.com/dreikanter/ruby-bookmarks/edit/master/README.md) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09**
 
-PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,680 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 for other community-driven bookmark collections.
+PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 for other community-driven bookmark collections.
 
 ## Table of Contents
 
@@ -194,7 +194,7 @@ PS: Check out [awesome-awesomeness](https://github.com/bayandin/awesome-awesomen
 
 ## Style Guides
 
-* [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 73 | 📅 2026-07-20
+* [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,549 | 🐛 73 | 📅 2026-07-20
 * [Thoughtbot Style Guides](https://github.com/thoughtbot/guides) ⭐ 9,563 | 🐛 10 | 🌐 Ruby | 📅 2026-08-21 (Ruby, Rails, Git, and some other technologies)
 * [The Rails Style Guide](https://github.com/bbatsov/rails-style-guide) ⭐ 6,504 | 🐛 45 | 📅 2026-07-21
 * [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
@@ -219,16 +219,16 @@ See also:
 ### IDEs and text editors
 
 * [Atom](https://github.com/atom/atom) ⚠️ Archived — a hackable text editor from Github (discontinued, archived).
-* ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) ⭐ 1,076 | 🐛 1 | 📅 2024-01-15 — a comprehensive list of plugins and other related stuff.
+* ★ [Sublime Text](http://www.sublimetext.com) — one of the best text editors for coding. Take a look at [Sublime Bookmarks](https://github.com/dreikanter/sublime-bookmarks) ⭐ 1,077 | 🐛 1 | 📅 2024-01-15 — a comprehensive list of plugins and other related stuff.
 * StackOverflow: [What Ruby IDE do you prefer?](https://stackoverflow.com/questions/16991/what-ruby-ide-do-you-prefer)
 * [RubyMine](http://jetbrains.com/ruby/) — intelligent Ruby and Rails IDE.
 * [Visual Studio Code](https://code.visualstudio.com) — Redefined code editor from Microsoft with [Ruby debugging support](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby).
 
 ### Code quality analysis
 
-* [RuboCop](https://github.com/bbatsov/rubocop) ⭐ 12,905 | 🐛 144 | 🌐 Ruby | 📅 2026-09-19 — a Ruby static code analyzer, based on the community Ruby style guide.
+* [RuboCop](https://github.com/bbatsov/rubocop) ⭐ 12,905 | 🐛 149 | 🌐 Ruby | 📅 2026-09-21 — a Ruby static code analyzer, based on the community Ruby style guide.
 * [RubyCritic](https://github.com/whitesmith/rubycritic) ⭐ 3,503 | 🐛 36 | 🌐 Ruby | 📅 2026-06-24 — a gem that wraps around static analysis gems such as Reek, Flay and Flog to provide a quality report of your Ruby code.
-* [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) ⭐ 639 | 🐛 7 | 🌐 Kotlin | 📅 2026-09-17 — An IDE extension that helps you detect and fix quality issues as you write code.
+* [sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) ⭐ 639 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-21 — An IDE extension that helps you detect and fix quality issues as you write code.
 * [Guard plugin for RuboCop](https://github.com/yujinakayama/guard-rubocop) ⭐ 261 | 🐛 6 | 🌐 Ruby | 📅 2024-05-20 — allows you to automatically check Ruby code style with RuboCop when files are modified.
 
 ### Environment management
@@ -269,15 +269,15 @@ See also:
 ### Deployment Automation and Configuration Management
 
 * [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,001 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19 — remote multi-server automation tool.
-* [Chef](https://github.com/opscode/chef) ⭐ 8,241 | 🐛 411 | 🌐 Ruby | 📅 2026-09-18 — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* [Chef](https://github.com/opscode/chef) ⭐ 8,242 | 🐛 410 | 🌐 Ruby | 📅 2026-09-21 — a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 * ★ [Mina](https://github.com/mina-deploy/mina) ⭐ 4,353 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 – really fast deployer and server automation tool.
 * [Rails + Nginx + Unicorn Dockerfile](https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn) ⭐ 284 | 🐛 1 | 🌐 Dockerfile | 📅 2019-02-03 — Easy-to-use Docker for Rails with less configuration and affordable production.
 
 ### Other tools
 
-* [httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,560 | 🐛 338 | 🌐 Python | 📅 2024-12-17 — An extremely handy command-line HTTP client; a user-friendly cURL replacement.
-* [Foreman](https://github.com/ddollar/foreman) ⭐ 6,161 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 — manage Procfile-based applications.
-* [Reek](https://github.com/troessner/reek) ⭐ 4,130 | 🐛 56 | 🌐 Ruby | 📅 2026-08-28 — code smell detection for Ruby.
+* [httpie](https://github.com/jakubroztocil/httpie) ⭐ 38,557 | 🐛 338 | 🌐 Python | 📅 2024-12-17 — An extremely handy command-line HTTP client; a user-friendly cURL replacement.
+* [Foreman](https://github.com/ddollar/foreman) ⭐ 6,160 | 🐛 72 | 🌐 Ruby | 📅 2025-07-27 — manage Procfile-based applications.
+* [Reek](https://github.com/troessner/reek) ⭐ 4,131 | 🐛 56 | 🌐 Ruby | 📅 2026-08-28 — code smell detection for Ruby.
 * [god](https://github.com/mojombo/god) ⭐ 2,218 | 🐛 123 | 🌐 Ruby | 📅 2024-03-29 — The Ruby Framework for Process Management
 * [DuckRails](https://github.com/iridakos/duckrails) ⚠️ Archived — A development tool for mocking API endpoints quickly and dynamically.
 * [eye](https://github.com/kostya/eye) ⭐ 1,193 | 🐛 19 | 🌐 Ruby | 📅 2021-11-13 — a process monitor.
@@ -310,7 +310,7 @@ See also:
 ### ActiveRecord
 
 * [Paperclip](https://github.com/thoughtbot/paperclip) ⚠️ Archived — easy file attachment management for ActiveRecord.
-* [Annotate](https://github.com/ctran/annotate_models) ⭐ 4,480 | 🐛 145 | 🌐 Ruby | 📅 2024-08-05 — Add a comment summarizing the current schema to the top or bottom of each of your ActiveRecord models, fixtures, tests and specs, factory\_girl factories, routes.rb file, etc.
+* [Annotate](https://github.com/ctran/annotate_models) ⭐ 4,481 | 🐛 145 | 🌐 Ruby | 📅 2024-08-05 — Add a comment summarizing the current schema to the top or bottom of each of your ActiveRecord models, fixtures, tests and specs, factory\_girl factories, routes.rb file, etc.
 * [Ancestry](https://github.com/stefankroes/ancestry) ⭐ 3,879 | 🐛 31 | 🌐 Ruby | 📅 2026-06-25 — Organize ActiveRecord models into a tree structure.
 * [Squeel](https://github.com/activerecord-hackery/squeel) ⚠️ Archived — lets you write your Active Record queries with fewer strings, and more Ruby, by making the Arel awesomeness that lies beneath Active Record more accessible.
 * [Thinking Sphinx](https://github.com/pat/thinking-sphinx) ⭐ 1,620 | 🐛 18 | 🌐 Ruby | 📅 2026-01-11 — a library for connecting ActiveRecord to the Sphinx full-text search tool, and integrates closely with Rails (but also works with other Ruby web frameworks).
@@ -318,15 +318,15 @@ See also:
 
 ### API
 
-* [Grape](https://github.com/intridea/grape) ⭐ 10,006 | 🐛 235 | 🌐 Ruby | 📅 2026-09-20 — an opinionated micro-framework for creating REST-like APIs in Ruby.
+* [Grape](https://github.com/intridea/grape) ⭐ 10,007 | 🐛 236 | 🌐 Ruby | 📅 2026-09-21 — an opinionated micro-framework for creating REST-like APIs in Ruby.
 * [RABL](https://github.com/nesquena/rabl) ⭐ 3,627 | 🐛 122 | 🌐 Ruby | 📅 2026-03-18 — A Rails and Padrino Ruby templating system for generating JSON, XML, MessagePack, PList, and BSON.
-* [Savon](https://github.com/savonrb/savon) ⭐ 2,085 | 🐛 9 | 🌐 Ruby | 📅 2026-09-18 — A micro-framework to handle all SOAP (WSDL) requests.
-* [Committee](https://github.com/interagent/committee) ⭐ 955 | 🐛 32 | 🌐 Ruby | 📅 2026-09-18 — A collection of middleware to help build services with JSON Schema, OpenAPI 2, and OpenAPI 3.
+* [Savon](https://github.com/savonrb/savon) ⭐ 2,085 | 🐛 10 | 🌐 Ruby | 📅 2026-09-21 — A micro-framework to handle all SOAP (WSDL) requests.
+* [Committee](https://github.com/interagent/committee) ⭐ 955 | 🐛 32 | 🌐 Ruby | 📅 2026-09-21 — A collection of middleware to help build services with JSON Schema, OpenAPI 2, and OpenAPI 3.
 * [Pliny](https://github.com/interagent/pliny) ⭐ 808 | 🐛 19 | 🌐 Ruby | 📅 2026-04-29 – write excellent APIs in Ruby.
 
 ### Authentication
 
-* [Devise](https://github.com/plataformatec/devise) ⭐ 24,358 | 🐛 235 | 🌐 Ruby | 📅 2026-06-22 — flexible authentication solution for Rails with Warden.
+* [Devise](https://github.com/plataformatec/devise) ⭐ 24,357 | 🐛 235 | 🌐 Ruby | 📅 2026-06-22 — flexible authentication solution for Rails with Warden.
 * [OmniAuth](https://github.com/intridea/omniauth) ⭐ 8,099 | 🐛 105 | 🌐 Ruby | 📅 2026-02-27 — a flexible authentication system utilizing Rack middleware.
 * [Authlogic](https://github.com/binarylogic/authlogic) ⭐ 4,342 | 🐛 12 | 🌐 Ruby | 📅 2026-02-08 — a clean, simple, and unobtrusive ruby authentication solution.
 * [sorcery](https://github.com/NoamB/sorcery) ⭐ 2,300 | 🐛 75 | 🌐 Ruby | 📅 2016-12-29 — magical Authentication for Rails 3 and 4, with OAuth support. Supports ActiveRecord, DataMapper, Mongoid and MongoMapper.
@@ -345,7 +345,7 @@ See also:
 * [Resque](https://github.com/resque/resque) ⭐ 9,473 | 🐛 72 | 🌐 Ruby | 📅 2026-09-16 — a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) ⭐ 2,629 | 🐛 2 | 🌐 Ruby | 📅 2025-12-24 — an asynchronous processing library using Celluloid, heavily influenced by Sidekiq and girl\_friday.
 * [que](https://github.com/chanks/que) ⭐ 2,326 | 🐛 61 | 🌐 Ruby | 📅 2026-09-08 — a Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
-* [Karafka](https://github.com/karafka/karafka) ⭐ 2,252 | 🐛 82 | 🌐 Ruby | 📅 2026-09-20 — Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
+* [Karafka](https://github.com/karafka/karafka) ⭐ 2,252 | 🐛 81 | 🌐 Ruby | 📅 2026-09-21 — Ruby and Rails multi-threaded efficient Kafka processing framework. It allows you to capture everything that happens in your systems in large scale.
 * [Delayed::Job](https://github.com/tobi/delayed_job) ⭐ 2,176 | 🐛 48 | 🌐 Ruby | 📅 2020-11-07 — A database-backed asynchronous priority queue.
 * [Ohm](https://github.com/soveran/ohm) ⭐ 1,382 | 🐛 12 | 🌐 Ruby | 📅 2022-12-20 — object-hash mapping for Redis.
 * [Backburner](https://github.com/nesquena/backburner) ⭐ 433 | 🐛 48 | 🌐 Ruby | 📅 2026-01-02 — a beanstalkd-powered job queue that can handle a very high volume of jobs.
@@ -354,7 +354,7 @@ See also:
 ### Bootstrap
 
 * [bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,495 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 — official SASS port of Twitter Bootstrap.
-* [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) ⭐ 4,464 | 🐛 0 | 🌐 HTML | 📅 2026-08-02 — Twitter Bootstrap for Rails asset pipeline.
+* [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) ⭐ 4,465 | 🐛 0 | 🌐 HTML | 📅 2026-08-02 — Twitter Bootstrap for Rails asset pipeline.
 
 ### CLI
 
@@ -363,7 +363,7 @@ See also:
 
 ### CSS
 
-* [SASS](https://github.com/sass/sass) ⭐ 15,375 | 🐛 115 | 🌐 TypeScript | 📅 2026-09-18 — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
+* [SASS](https://github.com/sass/sass) ⭐ 15,375 | 🐛 116 | 🌐 TypeScript | 📅 2026-09-21 — an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 * [Bitters](https://github.com/thoughtbot/bitters) ⭐ 1,362 | 🐛 15 | 🌐 HTML | 📅 2021-09-24 — add a dash of pre-defined style to your Bourbon.
 * [Autoprefixer](https://github.com/ai/autoprefixer-rails) ⭐ 1,210 | 🐛 7 | 🌐 Ruby | 📅 2025-04-12 — a tool to parse CSS and add vendor prefixes to CSS rules using values from the Can I Use. This gem provides Ruby and Ruby on Rails integration with this JavaScript tool.
 * [LESS](https://github.com/cowboyd/less.rb) ⚠️ Archived — leaner CSS, in your browser or Ruby.
@@ -371,7 +371,7 @@ See also:
 
 ### Configuration and environment variables
 
-* ★ [dotenv](https://github.com/bkeepers/dotenv) ⭐ 6,763 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 — loads environment variables from .env file into ENV in development.
+* ★ [dotenv](https://github.com/bkeepers/dotenv) ⭐ 6,764 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 — loads environment variables from .env file into ENV in development.
 * [Figaro](https://github.com/laserlemon/figaro) ⭐ 3,744 | 🐛 60 | 🌐 Ruby | 📅 2025-06-29 — simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 * [Chamber](https://github.com/thekompanee/chamber) ⭐ 205 | 🐛 0 | 🌐 Ruby | 📅 2026-01-08 — A surprisingly configurable convention-based approach to managing your application's custom configuration settings.
 
@@ -382,7 +382,7 @@ See also:
 
 ### E-commerce
 
-* [Solidus](https://github.com/solidusio/solidus) ⭐ 5,329 | 🐛 72 | 🌐 Ruby | 📅 2026-09-19 — An open source ecommerce solution built with Ruby on Rails.
+* [Solidus](https://github.com/solidusio/solidus) ⭐ 5,331 | 🐛 72 | 🌐 Ruby | 📅 2026-09-19 — An open source ecommerce solution built with Ruby on Rails.
 * [FastSpring](https://github.com/fastspring/fastspring-ruby) ⭐ 22 | 🐛 1 | 🌐 Ruby | 📅 2017-08-30 — subscription API for Rails.
 * [Active Merchant](https://github.com/Shopify/active_merchant) ⭐ 5 | 🐛 2 | 🌐 Ruby | 📅 2026-08-11 — a simple and unified API to access dozens of different payment gateways with very different internal APIs.
 * [PayPal](https://github.com/paypal/rest-api-sdk-ruby) — this SDK provides Ruby APIs to create, process and manage payment.
@@ -409,7 +409,7 @@ See also:
 ### Mail
 
 * [Mail](https://github.com/mikel/mail) ⭐ 3,670 | 🐛 216 | 🌐 Ruby | 📅 2026-07-01 — a library that is designed to handle emails generation, parsing and sending in a simple, rubyesque manner.
-* [Pony](https://github.com/benprew/pony) ⭐ 1,129 | 🐛 1 | 🌐 Ruby | 📅 2025-04-08 — the express way to send email in Ruby.
+* [Pony](https://github.com/benprew/pony) ⭐ 1,130 | 🐛 1 | 🌐 Ruby | 📅 2025-04-08 — the express way to send email in Ruby.
 * [AWS::SES](https://github.com/drewblas/aws-ses) ⭐ 543 | 🐛 33 | 🌐 Ruby | 📅 2023-01-18 — An easy Ruby DSL & interface to [Amazon SES](http://aws.amazon.com/ses/). See also the [official Ruby SDK](http://aws.amazon.com/sdkforruby/).
 * [Mailgun-Ruby](https://github.com/mailgun/mailgun-ruby) ⭐ 489 | 🐛 2 | 🌐 Ruby | 📅 2026-06-26 — Mailgun's Official Ruby Library.
 * [Griddler](https://griddler.io) — a Rails engine that provides an endpoint for SendGrid, Cloudmailin, Postmark or Mandrill and hands off the email to your application.
@@ -441,7 +441,7 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 * [awesome\_print](https://github.com/awesome-print/awesome_print) ⭐ 4,075 | 🐛 110 | 🌐 Ruby | 📅 2024-08-15 — a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation. Rails ActiveRecord objects and usage within Rails templates are supported via included mixins.
 * [Dalli](https://github.com/mperham/dalli) ⭐ 3,114 | 🐛 3 | 🌐 Ruby | 📅 2026-08-16 — A high performance Memcached client for Ruby.
 * [rpush](https://github.com/rpush/rpush) ⭐ 2,203 | 🐛 39 | 🌐 Ruby | 📅 2025-07-01 — push notification service, supporting Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging, Windows Phone Push Notification Service.
-* [Rubyzip](https://github.com/rubyzip/rubyzip) ⭐ 1,428 | 🐛 19 | 🌐 Ruby | 📅 2026-09-18 — A library for reading and writing zip files.
+* [Rubyzip](https://github.com/rubyzip/rubyzip) ⭐ 1,428 | 🐛 19 | 🌐 Ruby | 📅 2026-09-20 — A library for reading and writing zip files.
 * [Memoist](https://github.com/matthewrudy/memoist) ⭐ 921 | 🐛 28 | 🌐 Ruby | 📅 2024-04-30 — An extraction of ActiveSupport::Memoizable with few extensions.
 * [Dante](https://github.com/nesquena/dante) ⭐ 326 | 🐛 3 | 🌐 Ruby | 📅 2014-04-18 — turn any ruby code into a daemon.
 * [MemFs](https://github.com/simonc/memfs) ⭐ 320 | 🐛 7 | 🌐 Ruby | 📅 2026-06-22 — provides a fake file system that can be used for tests.
@@ -460,14 +460,14 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 
 * [Parallel](https://github.com/grosser/parallel) ⭐ 4,265 | 🐛 37 | 🌐 Ruby | 📅 2026-09-06 — Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).
   Best suited for map-reduce or e.g. parallel downloads/uploads.
-* [Sprawling](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,305 | 🐛 0 | 📅 2026-04-09 — spawn gem for Rails to easily fork or thread long-running code blocks.
+* [Sprawling](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09 — spawn gem for Rails to easily fork or thread long-running code blocks.
 * [thread](https://github.com/meh/ruby-thread) ⭐ 522 | 🐛 4 | 🌐 Ruby | 📅 2020-01-24 — extensions to the thread library (includes thread pool).
 
 ### Profiling and Performance
 
 * [Bullet](https://github.com/flyerhzm/bullet) ⭐ 7,340 | 🐛 6 | 🌐 Ruby | 📅 2026-08-29 — a gem to help to increase application's performance by reducing the number of queries it makes. It will watch your queries while you develop your application and notify you when you should add eager loading (N+1 queries), when you're using eager loading that isn't necessary and when you should use counter cache.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) ⭐ 3,904 | 🐛 38 | 🌐 Ruby | 📅 2026-08-21 — middleware that displays speed badge for every html page. Designed to work both in production and in development.
-* [Timecop](https://github.com/travisjeffery/timecop) ⭐ 3,425 | 🐛 7 | 🌐 Ruby | 📅 2026-09-16 — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
+* [Timecop](https://github.com/travisjeffery/timecop) ⭐ 3,426 | 🐛 7 | 🌐 Ruby | 📅 2026-09-16 — a gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 * [Peek](https://github.com/peek/peek) ⭐ 3,172 | 🐛 18 | 🌐 Ruby | 📅 2024-04-26 — status bar showing performance info for Rails apps.
 * [stackprof](https://github.com/tmm1/stackprof) ⭐ 2,194 | 🐛 59 | 🌐 Ruby | 📅 2026-03-24 — a sampling call-stack profiler for ruby 2.1+.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) ⭐ 2,033 | 🐛 4 | 🌐 Ruby | 📅 2026-06-22 — a code profiler for MRI rubies.
@@ -487,13 +487,13 @@ If there is a nice gem, but it is difficult to classify it with existing bookmar
 
 ### Rails
 
-* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,773 | 🐛 40 | 🌐 Ruby | 📅 2026-09-20 — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
-* [Simple Form](https://github.com/plataformatec/simple_form) ⭐ 8,227 | 🐛 37 | 🌐 Ruby | 📅 2026-04-01 — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-* [RailsAdmin](https://github.com/sferik/rails_admin) ⭐ 7,955 | 🐛 185 | 🌐 Ruby | 📅 2026-09-20 — a Rails engine that provides an easy-to-use interface for managing your data.
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,773 | 🐛 36 | 🌐 Ruby | 📅 2026-09-21 — classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
+* [Simple Form](https://github.com/plataformatec/simple_form) ⭐ 8,228 | 🐛 37 | 🌐 Ruby | 📅 2026-04-01 — forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+* [RailsAdmin](https://github.com/sferik/rails_admin) ⭐ 7,955 | 🐛 161 | 🌐 Ruby | 📅 2026-09-21 — a Rails engine that provides an easy-to-use interface for managing your data.
 * [paper\_trail](https://github.com/airblade/paper_trail) ⭐ 7,029 | 🐛 8 | 🌐 Ruby | 📅 2026-05-08 — track changes to your models' data. Good for auditing or versioning.
 * [Better Errors](https://github.com/charliesome/better_errors) ⭐ 6,861 | 🐛 68 | 🌐 Ruby | 📅 2024-07-09 — replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware.
 * [formtastic](https://github.com/justinfrench/formtastic) ⭐ 5,212 | 🐛 6 | 🌐 Ruby | 📅 2026-02-28 — a Rails form builder plugin with semantically rich and accessible markup.
-* [gemoji](https://github.com/github/gemoji) ⭐ 4,533 | 🐛 43 | 🌐 Ruby | 📅 2026-09-18 — emoji images and names.
+* [gemoji](https://github.com/github/gemoji) ⭐ 4,533 | 🐛 44 | 🌐 Ruby | 📅 2026-09-21 — emoji images and names.
 * [suspenders](https://github.com/thoughtbot/suspenders) ⭐ 4,042 | 🐛 0 | 🌐 Ruby | 📅 2026-08-28 — a Rails template with [Thoughtbot](http://thoughtbot.com) standard defaults, ready to deploy to Heroku.
 * [High Voltage](https://github.com/thoughtbot/high_voltage) ⭐ 3,234 | 🐛 1 | 🌐 Ruby | 📅 2026-06-22 — easily include static pages in your Rails app.
 * [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) ⭐ 1,851 | 🐛 12 | 🌐 HTML | 📅 2025-01-03 — the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) font bundled as an asset for the rails asset pipeline.
@@ -535,24 +535,24 @@ Validation:
 
 ### Search
 
-* [Ransack](https://github.com/activerecord-hackery/ransack) ⭐ 5,860 | 🐛 156 | 🌐 Ruby | 📅 2026-05-31 — enables the creation of both simple and advanced search forms against your application's models.
+* [Ransack](https://github.com/activerecord-hackery/ransack) ⭐ 5,860 | 🐛 90 | 🌐 Ruby | 📅 2026-09-21 — enables the creation of both simple and advanced search forms against your application's models.
 
 ### Security
 
 * [Brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,273 | 🐛 118 | 🌐 Ruby | 📅 2026-09-18 — a static analysis security vulnerability scanner for Ruby on Rails applications.
 * [Rack::Attack](https://github.com/rack/rack-attack) ⭐ 5,762 | 🐛 20 | 🌐 Ruby | 📅 2026-09-08 – Rack middleware for blocking & throttling.
-* [bundler-audit](https://github.com/rubysec/bundler-audit) ⭐ 2,759 | 🐛 49 | 🌐 Ruby | 📅 2026-09-18 – Patch-level verification for Bundler.
+* [bundler-audit](https://github.com/rubysec/bundler-audit) ⭐ 2,759 | 🐛 49 | 🌐 Ruby | 📅 2026-09-20 – Patch-level verification for Bundler.
 * [Codesake::Dawn](https://github.com/codesake/codesake-dawn) ⭐ 748 | 🐛 24 | 🌐 Ruby | 📅 2024-03-02 - Codesake::Dawn is a security source code scanner for ruby powered code. It is especially designed for web applications, but it works also with general purpose ruby scripts. Codesake::Dawn supports all major MVC frameworks like ruby on rails, Padrino and Sinatra; it provides more than 170 security checks with their own mitigation suggestion.
 
 ### Serialization
 
 Text:
 
-* [OJ](https://github.com/ohler55/oj) ⭐ 3,225 | 🐛 14 | 🌐 C | 📅 2026-09-10 — Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
+* [OJ](https://github.com/ohler55/oj) ⭐ 3,224 | 🐛 14 | 🌐 C | 📅 2026-09-10 — Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
 * [YAJL](https://github.com/brianmario/yajl-ruby) ⭐ 1,489 | 🐛 74 | 🌐 C | 📅 2025-12-27 — a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
-* [JSON](https://github.com/flori/json) ⭐ 782 | 🐛 8 | 🌐 Ruby | 📅 2026-09-18 — includes pure Ruby and C implementation for JSON.
+* [JSON](https://github.com/flori/json) ⭐ 783 | 🐛 8 | 🌐 Ruby | 📅 2026-09-18 — includes pure Ruby and C implementation for JSON.
 * [JSON::Stream](https://github.com/dgraham/json-stream) ⭐ 202 | 🐛 3 | 🌐 Ruby | 📅 2024-04-22 — a streaming JSON parser that generates SAX-like events.
-* [TOML](https://github.com/jm/toml) ⭐ 156 | 🐛 27 | 🌐 Ruby | 📅 2022-04-21 — a sane configuration format [from @mojombo](https://github.com/toml-lang/toml) ⭐ 20,616 | 🐛 6 | 📅 2026-09-15.
+* [TOML](https://github.com/jm/toml) ⭐ 156 | 🐛 27 | 🌐 Ruby | 📅 2022-04-21 — a sane configuration format [from @mojombo](https://github.com/toml-lang/toml) ⭐ 20,620 | 🐛 7 | 📅 2026-09-15.
 
 Binary:
 
@@ -580,16 +580,16 @@ Binary:
 
 ### Testing
 
-* [Faker](https://github.com/stympy/faker) ⭐ 11,938 | 🐛 36 | 🌐 Ruby | 📅 2026-09-17 — a library for generating fake data such as names, addresses, and phone numbers.
+* [Faker](https://github.com/stympy/faker) ⭐ 11,939 | 🐛 36 | 🌐 Ruby | 📅 2026-09-17 — a library for generating fake data such as names, addresses, and phone numbers.
 * [Capybara](https://github.com/jnicklas/capybara) ⭐ 10,172 | 🐛 22 | 🌐 Ruby | 📅 2026-07-13 — a tool helping you test web applications by simulating how a real user would interact with your app. It is agnostic about the driver running your tests and comes with Rack::Test and Selenium support built in. WebKit is supported through an external gem.
 * [factory\_bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,169 | 🐛 83 | 🌐 Ruby | 📅 2026-08-21 — a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class, including factory inheritance.
-* [rspec-rails](https://github.com/rspec/rspec-rails) ⭐ 5,274 | 🐛 64 | 🌐 Ruby | 📅 2026-09-03 — Rails integration for RSpec.
-* [Cucumber](https://github.com/cucumber/cucumber) ⭐ 3,354 | 🐛 44 | 📅 2026-05-17 — a tool for running automated tests written in plain language.
+* [rspec-rails](https://github.com/rspec/rspec-rails) ⭐ 5,274 | 🐛 65 | 🌐 Ruby | 📅 2026-09-21 — Rails integration for RSpec.
+* [Cucumber](https://github.com/cucumber/cucumber) ⭐ 3,353 | 🐛 44 | 📅 2026-05-17 — a tool for running automated tests written in plain language.
 * [factory\_bot\_rails](https://github.com/thoughtbot/factory_bot_rails) ⭐ 3,139 | 🐛 8 | 🌐 Ruby | 📅 2026-07-21 — Rails integration for `factory_bot`.
 * [Spring](https://github.com/rails/spring) ⭐ 2,815 | 🐛 55 | 🌐 Ruby | 📅 2026-06-30 — Rails application preloader to speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 * [shoulda](https://github.com/thoughtbot/shoulda) ⭐ 2,204 | 🐛 3 | 🌐 Ruby | 📅 2025-05-23
 * [capybara-webkit](https://github.com/thoughtbot/capybara-webkit) ⚠️ Archived A Capybara driver for headless WebKit so you can test JavaScript web apps.
-* [Mocha](https://github.com/freerange/mocha) ⭐ 1,284 | 🐛 124 | 🌐 Ruby | 📅 2026-07-13 — a Ruby library for mocking and stubbing.
+* [Mocha](https://github.com/freerange/mocha) ⭐ 1,284 | 🐛 125 | 🌐 Ruby | 📅 2026-07-13 — a Ruby library for mocking and stubbing.
 * [RSpec::Expectations](https://github.com/rspec/rspec-expectations) ⚠️ Archived — a simple, readable API to express expected outcomes of a code example.
 * [Formulaic](https://github.com/thoughtbot/formulaic) ⭐ 554 | 🐛 5 | 🌐 Ruby | 📅 2026-07-15 — simplify form filling with Capybara.
 * [RSpec](https://github.com/rspec/rspec) ⭐ 117 | 🐛 168 | 🌐 Ruby | 📅 2026-09-03 — RSpec meta-gem that depends on the other components.
@@ -609,4 +609,4 @@ See also:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

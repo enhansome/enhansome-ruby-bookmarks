@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Algorithms and Data Structures in Ruby",
-          "description": null,
+          "description": "kumar91gopi/Algorithms-and-Data-Structures-in-Ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -85,7 +85,7 @@
         {
           "node_type": "item",
           "title": "Basic Algorithms written in Ruby",
-          "description": ".",
+          "description": "djo/algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
         {
           "node_type": "item",
           "title": "The Ruby Style Guide",
-          "description": null,
+          "description": "rubocop/ruby-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,7 +125,7 @@
             "open_issues": 78,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16547,
+            "stars": 16548,
             "topics": [
               "rubocop",
               "ruby",
@@ -158,7 +158,7 @@
         {
           "node_type": "item",
           "title": "The Rails Style Guide",
-          "description": null,
+          "description": "rubocop/rails-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
                 "open_issues": 993,
                 "owner": "atom",
                 "repo": "atom",
-                "stars": 60717,
+                "stars": 60714,
                 "topics": [
                   "atom",
                   "editor",
@@ -264,11 +264,11 @@
                 "id": 4095287,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-02T11:27:31Z",
-                "open_issues": 161,
+                "last_commit": "2026-10-02T17:41:50Z",
+                "open_issues": 157,
                 "owner": "rubocop",
                 "repo": "rubocop",
-                "stars": 12913,
+                "stars": 12911,
                 "topics": [
                   "code-formatter",
                   "hacktoberfest",
@@ -319,8 +319,8 @@
                 "id": 13929787,
                 "language": "Kotlin",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-02T14:08:03Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-03T03:48:34Z",
+                "open_issues": 23,
                 "owner": "SonarSource",
                 "repo": "sonarlint-intellij",
                 "stars": 641,
@@ -379,7 +379,7 @@
                 "open_issues": 17,
                 "owner": "rbenv",
                 "repo": "rbenv",
-                "stars": 16734,
+                "stars": 16735,
                 "topics": [
                   "bash",
                   "ruby",
@@ -451,8 +451,8 @@
                 "id": 2441517,
                 "language": "Ruby",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-02T11:47:12Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-02T20:40:06Z",
+                "open_issues": 91,
                 "owner": "puma",
                 "repo": "puma",
                 "stars": 7916,
@@ -1095,7 +1095,7 @@
                 "open_issues": 32,
                 "owner": "interagent",
                 "repo": "committee",
-                "stars": 956,
+                "stars": 954,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -1144,7 +1144,7 @@
                 "open_issues": 236,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24355,
+                "stars": 24354,
                 "topics": [
                   "authentication",
                   "devise",
@@ -1402,7 +1402,7 @@
                 "id": 39947871,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T10:14:25Z",
+                "last_commit": "2026-10-03T03:01:16Z",
                 "open_issues": 83,
                 "owner": "karafka",
                 "repo": "karafka",
@@ -1448,7 +1448,7 @@
                 "open_issues": 48,
                 "owner": "tobi",
                 "repo": "delayed_job",
-                "stars": 2178,
+                "stars": 2177,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -1523,7 +1523,7 @@
                 "open_issues": 31,
                 "owner": "twbs",
                 "repo": "bootstrap-sass",
-                "stars": 12494,
+                "stars": 12493,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -1544,7 +1544,7 @@
                 "open_issues": 0,
                 "owner": "seyhunak",
                 "repo": "twitter-bootstrap-rails",
-                "stars": 4464,
+                "stars": 4463,
                 "topics": [
                   "bootstrap",
                   "bootstrap-generator",
@@ -1637,7 +1637,7 @@
                 "open_issues": 113,
                 "owner": "sass",
                 "repo": "sass",
-                "stars": 15373,
+                "stars": 15371,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -1782,7 +1782,7 @@
                 "open_issues": 0,
                 "owner": "thekompanee",
                 "repo": "chamber",
-                "stars": 205,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
@@ -2004,7 +2004,7 @@
                 "open_issues": 134,
                 "owner": "fluent",
                 "repo": "fluentd",
-                "stars": 13595,
+                "stars": 13596,
                 "topics": [
                   "cncf",
                   "data-collector",
@@ -2278,7 +2278,7 @@
                 "open_issues": 19,
                 "owner": "gettalong",
                 "repo": "kramdown",
-                "stars": 1783,
+                "stars": 1782,
                 "topics": [
                   "html",
                   "kramdown",
@@ -2407,7 +2407,7 @@
                 "open_issues": 94,
                 "owner": "prawnpdf",
                 "repo": "prawn",
-                "stars": 4824,
+                "stars": 4821,
                 "topics": [
                   "pdf",
                   "pdf-generator",
@@ -2496,7 +2496,7 @@
                 "open_issues": 39,
                 "owner": "rpush",
                 "repo": "rpush",
-                "stars": 2202,
+                "stars": 2201,
                 "topics": [
                   "apns",
                   "apns2",
@@ -2864,40 +2864,12 @@
                 "id": 275303,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-06T06:47:57Z",
+                "last_commit": "2026-10-03T03:23:20Z",
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
                 "stars": 4266,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:22:04.133Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sprawling",
-              "description": "spawn gem for Rails to easily fork or thread long-running code blocks.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Ruby and Ruby on Rails bookmarks collection",
-                "homepage": null,
-                "id": 21204004,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-04-09T13:08:15Z",
-                "open_issues": 0,
-                "owner": "dreikanter",
-                "repo": "ruby-bookmarks",
-                "stars": 2307,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bookmarks",
-                  "list",
-                  "rails",
-                  "ruby"
-                ]
               },
               "first_seen": "2026-08-28T20:22:04.133Z"
             },
@@ -3367,7 +3339,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-09-25T00:36:55Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "paper-trail-gem",
                 "repo": "paper_trail",
                 "stars": 7030,
@@ -3461,8 +3433,8 @@
                 "id": 666566,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:47:06Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T20:13:23Z",
+                "open_issues": 1,
                 "owner": "thoughtbot",
                 "repo": "suspenders",
                 "stars": 4040,
@@ -4072,8 +4044,8 @@
                 "id": 8133216,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:52:39Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-02T19:25:37Z",
+                "open_issues": 48,
                 "owner": "rubysec",
                 "repo": "bundler-audit",
                 "stars": 2762,
@@ -4340,7 +4312,7 @@
                 "open_issues": 170,
                 "owner": "aasm",
                 "repo": "aasm",
-                "stars": 5230,
+                "stars": 5229,
                 "topics": [
                   "aasm",
                   "activerecord",
@@ -4576,7 +4548,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-07-13T14:52:49Z",
-                "open_issues": 24,
+                "open_issues": 27,
                 "owner": "teamcapybara",
                 "repo": "capybara",
                 "stars": 10177,
@@ -4704,7 +4676,7 @@
             {
               "node_type": "item",
               "title": "shoulda",
-              "description": null,
+              "description": "thoughtbot/shoulda",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4864,7 +4836,7 @@
                 "open_issues": 33,
                 "owner": "hanami",
                 "repo": "hanami",
-                "stars": 6420,
+                "stars": 6421,
                 "topics": [
                   "api",
                   "hanami",
@@ -4912,7 +4884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:00:17.411Z",
+    "last_updated": "2026-10-03T05:05:16.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Ruby and Ruby on Rails bookmarks collection",
